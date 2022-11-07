@@ -5,3 +5,4 @@
 [submodule "apps/assetsheld-account"]
 	path = apps/assetsheld-account
 	url = git@github.com:garrett9/assetsheld-account.git
+	branch = master
