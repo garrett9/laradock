@@ -6,3 +6,6 @@
 	path = apps/assetsheld-account
 	url = git@github.com:garrett9/assetsheld-account.git
 	branch = master
+[submodule "apps/assets-retrieved"]
+	path = apps/assets-retrieved
+	url = git@github.com:garrett9/assets-retrieved.git
